@@ -32,6 +32,6 @@ jobs:
       #   run: bash ./tools/publish.sh
 
       - name: Release to Github
-        uses: blocklet/action-release-to-github@v1.0.1
+        uses: blocklet/action-release-to-github@v1.0.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
