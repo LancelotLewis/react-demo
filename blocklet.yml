@@ -1,5 +1,5 @@
 name: react-demo
-version: 0.1.8
+version: 0.1.9
 homepage: 'https://github.com/blocklet/react-demo'
 files:
   - blocklet.md
@@ -17,7 +17,7 @@ author:
   name: ArcBlock
 scripts:
   dev: npm run start
-specVersion: 1.0.2
+specVersion: 1.1.1
 did: z8iZvpvLdpfxkvTFdawCF3s5UJdUSkP2NXqPC
 community: ''
 documentation: ''
@@ -42,3 +42,4 @@ charging:
   tokens: []
   shares: []
 children: []
+capabilities: {}
