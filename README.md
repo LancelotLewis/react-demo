@@ -14,13 +14,16 @@ Click the "Open in Gitpod" button, Gitpod will start ABT Node and the blocklet.
 
 ## Run and debug locally
 
-If you have not installed ABT Node locally, you can do it using the following: 
+If you have not installed ABT Node locally, you can do it using the following:
+
 ```shell
 yarn global add @abtnode/cli
 ```
-You can get more details from [Get started with ABT Node](https://www.arcblock.io/en/get-started) page or if you need help installing ABT Node. 
+
+You can get more details from [Get started with ABT Node](https://www.arcblock.io/en/get-started) page or if you need help installing ABT Node.
 
 Clone the repo and start development using a debug mode ABT Node instance inside this project:
+
 ```shell
 git clone git@github.com:blocklet/react-demo.git
 cd react-demo
@@ -30,7 +33,7 @@ abtnode start
 blocklet dev
 ```
 
-### Bundle and Package 
+### Bundle and Package
 
 (Coming Soon)
 
@@ -39,16 +42,18 @@ blocklet dev
 If you have your own ABT Node and just want to try out this blocklet, simply click the following button to install:
 [Install on My ABT Node]()
 
-Or alternatively, you can find install this demo blocklet in [Blocklets Marketplace](https://blocklet.arcblock.io) or from the "Blocklet/Marketplace" menu in your ABT Node console. 
+Or alternatively, you can find install this demo blocklet in [Blocklets Marketplace](https://blocklet.arcblock.io) or from the "Blocklet/Marketplace" menu in your ABT Node console.
 
 ## Learn more about ABT Node and Blocklet
 
-* [ABT Node Overview](https://docs.arcblock.io/en/abtnode/introduction/abtnode-overview)
-* [Get started with ABT Node](https://www.arcblock.io/en/get-started)
-* [ABT Node CLI](https://docs.arcblock.io/en/abtnode/developer/abtnode-cli)
-* [Blocklet Development Documents](https://docs.arcblock.io/en/abtnode/developer/blocklet-spec)
+- [ABT Node Overview](https://docs.arcblock.io/en/abtnode/introduction/abtnode-overview)
+- [Get started with ABT Node](https://www.arcblock.io/en/get-started)
+- [ABT Node CLI](https://docs.arcblock.io/en/abtnode/developer/abtnode-cli)
+- [Blocklet Development Documents](https://docs.arcblock.io/en/abtnode/developer/blocklet-spec)
 
 ## License
 
 The code is licensed under the MIT license found in the
 [LICENSE](LICENSE) file.
+
+test
